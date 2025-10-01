@@ -37,12 +37,3 @@ I am an aspiring Front-End Developer skilled in building modern, responsive, and
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harfinnn&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harfinnn/Harfinnn/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-✨ _Always learning and building cool stuff!_
-
