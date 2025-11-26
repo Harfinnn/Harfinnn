@@ -30,10 +30,3 @@ I am an aspiring Front-End Developer skilled in building modern, responsive, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
-
----
-
-### 📊 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harfinnn&layout=compact&theme=tokyonight" height="180"/>
-</p>
