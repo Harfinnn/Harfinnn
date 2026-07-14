@@ -121,27 +121,7 @@ A Strava-inspired mobile application for tracking running activities.
 
 <p align="center">
 
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api?username=Harfinnn&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harfinnn&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Harfinnn&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harfinnn&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
